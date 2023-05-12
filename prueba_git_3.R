@@ -2,6 +2,8 @@ library(psych)
 library(openxlsx)
 library(dplyr)
 
+setwd("C:/proyectos r studio/ANALISTA USACH/git_hub_2/UNIFICADA_3")
+
 MU_2018<-
   read.xlsx("MU 2018 ALT.xlsx")
 
